@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abhishek Jha 👋<br><br>A MERN Stack Developer passionate about building scalable and user-focused web applications.<br><br>* 💻 Working with React.js, Node.js, Express.js, MongoDB, and TypeScript<br>* 🔐 Experienced in JWT Authentication, RBAC, REST APIs, and Payment Gateway Integrations<br>* ⚡ Built projects in Travel, EdTech, Retail, and Real-Time Communication domains<br>* 🚀 Love turning ideas into fully functional products and deploying them to production<br>* 📚 Always learning and improving through hands-on development<br><br>Thanks for visiting my profile!<br>
+Hi, I'm Abhishek Jha 👋<br><br>A MERN Stack Developer passionate about building scalable and user-focused web applications.<br><br>* 💻 Working with React.js, Node.js, Express.js, MongoDB, TypeScript and Next.js<br>* 🔐 Experienced in JWT Authentication, RBAC, REST APIs, and Payment Gateway Integrations<br>* ⚡ Built projects in Travel, EdTech, Retail, and Real-Time Communication domains<br>* 🚀 Love turning ideas into fully functional products and deploying them to production<br>* 📚 Always learning and improving through hands-on development<br><br>Thanks for visiting my profile!<br>
 
 
 ## 🌐 Socials:
